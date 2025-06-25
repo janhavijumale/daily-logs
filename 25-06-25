@@ -1,0 +1,12 @@
+# 🧠 Day 2 – Windows Fundamentals
+
+📅 2025-06-25
+🧩 Completed Windows Fundamentals Part 2 on TryHackMe
+
+### Topics Covered:
+- NTFS, file system features, permissions, ADS
+- Admin vs Standard users, UAC
+- System tools: Task Manager, msconfig, compmgmt, resmon, msinfo32, regedit
+- CMD basics: `hostname`, `whoami`, `ipconfig`, `netstat`, `net help`
+
+📁 Notes updated in `cyber-labs/windows-fundamentals/part-2.md`
